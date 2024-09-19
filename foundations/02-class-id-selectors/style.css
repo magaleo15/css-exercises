@@ -1,0 +1,19 @@
+p.bg-class {
+    background-color: rgb(255, 188, 208);
+    font-family: Verdana, "DejaVu Sans", "sans-serif";
+
+}
+p.bg-class.font-size-class {
+    font-size: 24px;
+}
+
+#number-two {
+    color:blue;
+    font-size: 36px;
+}
+
+#number-four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
